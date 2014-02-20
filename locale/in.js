@@ -1,4 +1,4 @@
-NumberFormat.locale. in = {
+NumberFormat.locale["in"] = {
     "DECIMAL_SEP": ",",
     "GROUP_SEP": ".",
     "PERCENT": "%",
