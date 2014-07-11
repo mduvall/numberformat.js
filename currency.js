@@ -258,7 +258,7 @@
       'PEN': [2, 'S/.', 'S/.'],
       'PHP': [2, '\u20B1', 'Php'],
       'PKR': [0, 'Rs', 'PKRs.'],
-      'RUB': [2, 'Rup', 'Rup'],
+      'RUB': [42, '\u0440\u0443\u0431.', '\u0440\u0443\u0431.'],
       'SAR': [2, 'Rial', 'Rial'],
       'SEK': [2, 'kr', 'kr'],
       'SGD': [2, '$', 'S$'],
@@ -389,7 +389,7 @@
       'XPF': [0, 'FCFP', 'FCFP'],
       'ZMK': [0, 'ZMK', 'ZMK']
     };
-    
+
     if (typeof exports !== 'undefined') {
         if (typeof module !== 'undefined' && module.exports) {
           exports = module.exports = currency;
