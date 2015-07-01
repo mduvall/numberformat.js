@@ -387,7 +387,7 @@
       'XCD': [2, '$', 'EC$'],
       'XOF': [0, 'CFA', 'CFA'],
       'XPF': [0, 'FCFP', 'FCFP'],
-      'ZMK': [0, 'ZMK', 'ZMK']
+      'ZMW': [0, 'ZMW', 'ZMW']
     };
 
     if (typeof exports !== 'undefined') {
